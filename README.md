@@ -23,7 +23,7 @@ Remember that c must be included in the formula because this is the variable tha
 
 By changing the formula you change the encryption process, this codes reformats the individual numbers per character (ASCII) according to your formula. 
 
-ONLY CHANGE THE FORMULA INSIDE THE PARAENTHESIS OTHERWISE IT WILL NOT WORK.
+ONLY CHANGE THE FORMULA INSIDE THE PARANTHESES OTHERWISE IT WILL NOT WORK.
 
 REMEMBER YOUR ENCRYPTION KEY AND HOW TO SOLVE IT BACKWARDS. YOU WILL LOSE YOUR PASSCODES IF YOU CANNOT REMEMBER THE SCRAMBLED PASSCODE, THE ENCRYPTION KEY AND THE DECRYPTION KEY.
 
