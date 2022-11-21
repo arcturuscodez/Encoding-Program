@@ -3,7 +3,7 @@ encrypts and decrypts your passcodes so you can write them down safely.
 
 How to use:
 
-The code & included files are unfortunately a mess since I needed to make various versions of it for my submittion in ISH... I will try to clean it as best as I can.
+The code & included files are unfortunately a mess since I needed to make various versions of it for my submission.. I will try to clean it as best as I can.
 
 However, the three important parts of the application are the mentioned files:
 
