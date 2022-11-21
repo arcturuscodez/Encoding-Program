@@ -17,7 +17,7 @@ On Form1.cs you will find on Line 108 (encryption) & Line 139 (decryption) a mat
 
 (c - x * 5) or (c + x / 5) etc....
 
-The currently implemented formula is very basic, if you are actually going to use it to encrypt passcodes find a formula that is not basic artimithic, just remember you know how to solve it for the decryption process!
+The currently implemented formula is very basic, if you are actually going to use it to encrypt passcodes find a formula that is not basic arithmetic, just remember you know how to solve it for the decryption process!
 
 Remember that c must be included in the formula because this is the variable that contains your passcode and is what you are applying your formula to. 
 
