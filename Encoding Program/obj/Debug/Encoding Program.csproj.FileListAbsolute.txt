@@ -1,0 +1,22 @@
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\bin\Debug\Encoding Program.exe.config
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\bin\Debug\Encoding Program.exe
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\bin\Debug\Encoding Program.pdb
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding_Program.Form1.resources
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding_Program.Properties.Resources.resources
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.GenerateResource.cache
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.CoreCompileInputs.cache
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.exe
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.pdb
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csprojAssemblyReference.cache
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\bin\Debug\Encoding Program.exe.manifest
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\bin\Debug\Encoding Program.application
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.exe.manifest
+C:\Users\sonny\Desktop\PC Folder\Coding\Apps\Enconding Program\Encoding Program\Encoding Program\obj\Debug\Encoding Program.application
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.AssemblyReference.cache
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding_Program.Form1.resources
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding_Program.Properties.Resources.resources
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.GenerateResource.cache
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.csproj.CoreCompileInputs.cache
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.exe
+C:\Users\sonny\Desktop\PC Folder\Education\ISH\Old Projects\IA\Encoding Program\Encoding Program\obj\Debug\Encoding Program.pdb
