@@ -5,9 +5,9 @@ How to use:
 
 The code & included files are unfortunately a mess since I needed to make various versions of it for my submittion in ISH... I will try to clean it as best as I can.
 
-However, the three important parts of the code are the files:
+However, the three important parts of the application are the mentioned files:
 
-1. Form1.cs (code itself)9
+1. Form1.cs (the code itself)
 2. Program.cs 
 3. Form1.Designer (run this to see the application UI)
 
